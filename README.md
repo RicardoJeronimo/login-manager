@@ -1,6 +1,3 @@
-# DEPRECATED
-This project will no longer be supported as the dependencies have been abandoned.
-
 # LoginManager.js
 
 ## About
