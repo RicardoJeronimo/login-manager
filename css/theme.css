@@ -8,7 +8,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
   color: white;
-  background-image: "/boot/grub/themes/Stylish/background.jpg";
+  background-image: url('../bg/background.jpg');
   /* background-color: #34495e; */
   /* background: radial-gradient(center, ellipse cover, #455a64 10%, #263238 100%); */
   overflow: hidden;
@@ -24,6 +24,7 @@ input {
 }
 .power-button {
   fill: #bdc3c7;
+  stroke: rgba(0,0,0,0.5);
 }
 .power-button:hover {
   fill: #ecf0f1;
